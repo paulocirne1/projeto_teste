@@ -1,5 +1,8 @@
 body {
 h1 { color: red;}
+h2 { color: blue;
+     font-style: bold;
+     }
 
 
 }
